@@ -117,7 +117,7 @@
     },
     {
         "hash": "c1b700dc7c294c1aa3a521b556168ea9",
-        "title": "Set ` allowSetController` flag  to  true , and give multisig discretionary permission to execute a controller migration.",
+        "title": "Set `allowSetController` flag  to  true , and give multisig discretionary permission to execute a controller migration.",
         "url": "/GC27/JBP-231.md",
         "category": "Funding Cycle Reconfiguration & Protocol Upgrades",
         "status": "Approved",
