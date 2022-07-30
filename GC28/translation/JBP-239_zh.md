@@ -1,5 +1,5 @@
 
-````plain text
+```
 作者：DrGorilla.eth#8862
 日期: (YYY-MM-DD)
 ```
