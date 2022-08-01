@@ -1,6 +1,5 @@
-[
-    {
-        "hash": "6c7aaacbdd7f48aea253b2df35a598d5",
+{
+    "6c7aaacbdd7f48aea253b2df35a598d5": {
         "title": "Renew tankbottom’s recurring payout",
         "url": "/GC27/JBP-227.md",
         "category": "Recurring Payment",
@@ -28,8 +27,7 @@
             "outcomeEmoji": "✅"
         }
     },
-    {
-        "hash": "1e375b1e2cd94a7d99306e70ab50d96f",
+    "1e375b1e2cd94a7d99306e70ab50d96f": {
         "title": "Felixander renew recurring payout",
         "url": "/GC27/JBP-228.md",
         "category": "Recurring Payment",
@@ -57,8 +55,7 @@
             "outcomeEmoji": "✅"
         }
     },
-    {
-        "hash": "9132ac522b6e4493a25b43ddda15dd5d",
+    "9132ac522b6e4493a25b43ddda15dd5d": {
         "title": "Create Recurring Payout for Matthew and Brileigh",
         "url": "/GC27/JBP-229.md",
         "category": "Recurring Payment",
@@ -86,8 +83,7 @@
             "outcomeEmoji": "✅"
         }
     },
-    {
-        "hash": "25bd54dedd2649bca5eb7b09b7d88667",
+    "25bd54dedd2649bca5eb7b09b7d88667": {
         "title": "Jango recurring payout",
         "url": "/GC27/JBP-230.md",
         "category": "Recurring Payment",
@@ -115,8 +111,7 @@
             "outcomeEmoji": "✅"
         }
     },
-    {
-        "hash": "c1b700dc7c294c1aa3a521b556168ea9",
+    "c1b700dc7c294c1aa3a521b556168ea9": {
         "title": "Set `allowSetController` flag  to  true , and give multisig discretionary permission to execute a controller migration.",
         "url": "/GC27/JBP-231.md",
         "category": "Funding Cycle Reconfiguration & Protocol Upgrades",
@@ -144,8 +139,7 @@
             "outcomeEmoji": "✅"
         }
     },
-    {
-        "hash": "38f2e6cab592453c94691954ca54fa14",
+    "38f2e6cab592453c94691954ca54fa14": {
         "title": "Renew Recurring Payment Proposal for Viraz",
         "url": "/GC27/JBP-232.md",
         "category": "Recurring Payment",
@@ -173,8 +167,7 @@
             "outcomeEmoji": "✅"
         }
     },
-    {
-        "hash": "45441be06be44638a81da149d460fa50",
+    "45441be06be44638a81da149d460fa50": {
         "title": "Set handle of Juicebox V2 project to “@juicebox”",
         "url": "/GC27/JBP-233.md",
         "category": "One-Time Payout",
@@ -202,8 +195,7 @@
             "outcomeEmoji": "✅"
         }
     },
-    {
-        "hash": "2ca44f60a16642b39b2cb4b8aaf79035",
+    "2ca44f60a16642b39b2cb4b8aaf79035": {
         "title": "Extend registration of jbx.eth and jbox.eth",
         "url": "/GC27/JBP-234.md",
         "category": "One-Time Payout",
@@ -231,4 +223,4 @@
             "outcomeEmoji": "✅"
         }
     }
-]
+}
