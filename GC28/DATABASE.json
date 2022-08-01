@@ -1,0 +1,86 @@
+{
+    "b39502ae35774090ab6f51fa3dc77e53": {
+        "title": "Juicebox Subscription Reimbursements",
+        "url": "/GC28/JBP-236.md",
+        "category": "Process Upgrades",
+        "status": "Temperature Check",
+        "proposalId": "JBP-236",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1002665925922799737",
+        "ipfsURL": null,
+        "voteURL": null,
+        "date": "2022-07-29",
+        "governanceCycle": 28
+    },
+    "2702c44670844a8c995feec1873dc732": {
+        "title": "Gas multisig reimbursements",
+        "url": "/GC28/JBP-237.md",
+        "category": "Process Upgrades",
+        "status": "Temperature Check",
+        "proposalId": "JBP-237",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1002665926656798820",
+        "ipfsURL": null,
+        "voteURL": null,
+        "date": "2022-07-29",
+        "governanceCycle": 28
+    },
+    "d74d7f1d19a845da8ba44573aebad5e4": {
+        "title": "renew gulan recuring payout",
+        "url": "/GC28/JBP-238.md",
+        "category": "Recurring Payment",
+        "status": "Temperature Check",
+        "proposalId": "JBP-238",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1002665927814414406",
+        "ipfsURL": null,
+        "voteURL": null,
+        "date": "2022-07-29",
+        "governanceCycle": 28
+    },
+    "07f9f7cf89734bd1ab6c87659e2e7874": {
+        "title": "DrGorilla.eth payout renewal",
+        "url": "/GC28/JBP-239.md",
+        "category": "Recurring Payment",
+        "status": "Temperature Check",
+        "proposalId": "JBP-239",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1001941873079877632",
+        "ipfsURL": null,
+        "voteURL": null,
+        "date": "",
+        "governanceCycle": 28
+    },
+    "012e3991407f4786b0e37de3d63c01cb": {
+        "title": "Peel recurring payout renewal",
+        "url": "/GC28/JBP-240.md",
+        "category": "Recurring Payment",
+        "status": "Temperature Check",
+        "proposalId": "JBP-240",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1002107727390187571",
+        "ipfsURL": null,
+        "voteURL": null,
+        "date": "2022-07-26",
+        "governanceCycle": 28
+    },
+    "87d9afd66f68447d859e8a55a07ce144": {
+        "title": "Grant 50k $JBX to all Buidl Guidl Hackathon Teams",
+        "url": "/GC28/JBP-241.md",
+        "category": "One-Time Payout",
+        "status": "Temperature Check",
+        "proposalId": "JBP-241",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1000191139653107793",
+        "ipfsURL": null,
+        "voteURL": null,
+        "date": "2022-07-19",
+        "governanceCycle": 28
+    },
+    "75c6648bef644c5faf87b15ab22df39d": {
+        "title": "Add Nicholas to the reserved list",
+        "url": "/GC28/JBP-242.md",
+        "category": "Reserved JBX Allocation",
+        "status": "Temperature Check",
+        "proposalId": "JBP-242",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1000191140508733461",
+        "ipfsURL": null,
+        "voteURL": null,
+        "date": "2022-07-19",
+        "governanceCycle": 28
+    }
+}
