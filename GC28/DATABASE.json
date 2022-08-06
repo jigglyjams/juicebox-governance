@@ -3,84 +3,196 @@
         "title": "Juicebox Subscription Reimbursements",
         "url": "/GC28/JBP-236.md",
         "category": "Process Upgrades",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-236",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1002665925922799737",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmUcUGaHub3UbLfNGi9XpSzyoBEv3TwMBFtoi8CUSpzsCs",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x70a706e6149aa8041fbb6f1cc820c7532b23ba289dff9e33f32fb207cc2d1736",
         "date": "2022-07-29",
+        "voteResults": {
+            "voteProposalId": "0x70a706e6149aa8041fbb6f1cc820c7532b23ba289dff9e33f32fb207cc2d1736",
+            "totalVotes": 102,
+            "scoresState": "final",
+            "scores": {
+                "For": 149702420.6456569,
+                "Against": 176176.86370580853,
+                "Abstain": 6772200.3597312905
+            },
+            "percentages": {
+                "For": 0.9988245362137526,
+                "Against": 0.0011754637862474192
+            },
+            "outcomePercentage": "99.88",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 28
     },
     "2702c44670844a8c995feec1873dc732": {
         "title": "Gas multisig reimbursements",
         "url": "/GC28/JBP-237.md",
         "category": "Process Upgrades",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-237",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1002665926656798820",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmaqAv58MPmTWyTdV2GdnfzAyFg3sDJnJJno7Q26QcDzc7",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x39525013b3da5a95c47d8e3301f36c70c3dc25e1c304f63421a602b6c2f31db6",
         "date": "2022-07-29",
+        "voteResults": {
+            "voteProposalId": "0x39525013b3da5a95c47d8e3301f36c70c3dc25e1c304f63421a602b6c2f31db6",
+            "totalVotes": 111,
+            "scoresState": "final",
+            "scores": {
+                "For": 130688112.05517086,
+                "Against": 0,
+                "Abstain": 9361188.503384504
+            },
+            "percentages": {
+                "For": 1,
+                "Against": 0
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 28
     },
     "d74d7f1d19a845da8ba44573aebad5e4": {
         "title": "renew gulan recuring payout",
         "url": "/GC28/JBP-238.md",
         "category": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-238",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1002665927814414406",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmXtNsSjEtmcbgMKVZLRXHUosHmrs6L99KC5GuWaK39uHb",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x884bd37ff063863fa9f50893a998ddbcbbedacac8a784999d088635a45b554dd",
         "date": "2022-07-29",
+        "voteResults": {
+            "voteProposalId": "0x884bd37ff063863fa9f50893a998ddbcbbedacac8a784999d088635a45b554dd",
+            "totalVotes": 101,
+            "scoresState": "final",
+            "scores": {
+                "For": 150771664.61069632,
+                "Against": 84514.81306580853,
+                "Abstain": 6772200.3597312905
+            },
+            "percentages": {
+                "For": 0.9994397656536933,
+                "Against": 0.0005602343463067724
+            },
+            "outcomePercentage": "99.94",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 28
     },
     "07f9f7cf89734bd1ab6c87659e2e7874": {
         "title": "DrGorilla.eth payout renewal",
         "url": "/GC28/JBP-239.md",
         "category": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-239",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1001941873079877632",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmUVeGjvy2AvNaX2mE6uVezoyT2V6gdWahyWSUEpsnoS6e",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x71523c9878ab69ce121ce1f24bed89f8b95a22f40c432159ff2253d63b7aee58",
         "date": "2022-08-01",
+        "voteResults": {
+            "voteProposalId": "0x71523c9878ab69ce121ce1f24bed89f8b95a22f40c432159ff2253d63b7aee58",
+            "totalVotes": 99,
+            "scoresState": "final",
+            "scores": {
+                "For": 118420215.60539694,
+                "Against": 33847.43656066542,
+                "Abstain": 6712199.369170815
+            },
+            "percentages": {
+                "For": 0.9997142568545861,
+                "Against": 0.0002857431454139004
+            },
+            "outcomePercentage": "99.97",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 28
     },
     "012e3991407f4786b0e37de3d63c01cb": {
         "title": "Peel recurring payout renewal",
         "url": "/GC28/JBP-240.md",
         "category": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-240",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1002107727390187571",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmNMj9rE5RGgBVJ1enLe8oLCd88BaCJpFKULMqqU8cPJNn",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xf61359425cc4193fc22014dea88a28cb9f59aecde654306becf9b4606023be6b",
         "date": "2022-07-26",
+        "voteResults": {
+            "voteProposalId": "0xf61359425cc4193fc22014dea88a28cb9f59aecde654306becf9b4606023be6b",
+            "totalVotes": 92,
+            "scoresState": "final",
+            "scores": {
+                "For": 107239307.00304016,
+                "Against": 33847.43656066542,
+                "Abstain": 13949378.289688688
+            },
+            "percentages": {
+                "For": 0.9996844743054544,
+                "Against": 0.0003155256945457207
+            },
+            "outcomePercentage": "99.97",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 28
     },
     "87d9afd66f68447d859e8a55a07ce144": {
         "title": "Grant 50k $JBX to each Buidl Guidl Hackathon Team",
         "url": "/GC28/JBP-241.md",
         "category": "One-Time Payout",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-241",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1000191139653107793",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmXanPVK2Q5RQ5Dg9DMDtqCc2dYKykEBXTqWyD8UYtDJoM",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x3b565b56fe92b864354d815b2dfb4a63fad87ad1678b64803ff0c91971bfc6e7",
         "date": "2022-07-19",
+        "voteResults": {
+            "voteProposalId": "0x3b565b56fe92b864354d815b2dfb4a63fad87ad1678b64803ff0c91971bfc6e7",
+            "totalVotes": 108,
+            "scoresState": "final",
+            "scores": {
+                "For": 138465562.62691087,
+                "Against": 112196.0125604757,
+                "Abstain": 7087812.164115597
+            },
+            "percentages": {
+                "For": 0.9991903750380868,
+                "Against": 0.0008096249619130347
+            },
+            "outcomePercentage": "99.92",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 28
     },
     "75c6648bef644c5faf87b15ab22df39d": {
         "title": "Add Nicholas to the reserved list",
         "url": "/GC28/JBP-242.md",
         "category": "Reserved JBX Allocation",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-242",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1000191140508733461",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmbXvTxeRVpD6rsMzPEsdwHSPxvAxnUnU7nwKBS3mzRbNi",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x3f339f454d6026a78f9cc6245d7a120ea5bc6052790784678ff843976d191bb6",
         "date": "2022-07-19",
+        "voteResults": {
+            "voteProposalId": "0x3f339f454d6026a78f9cc6245d7a120ea5bc6052790784678ff843976d191bb6",
+            "totalVotes": 103,
+            "scoresState": "final",
+            "scores": {
+                "For": 118112788.5593505,
+                "Against": 33847.43656066542,
+                "Abstain": 6789866.841280203
+            },
+            "percentages": {
+                "For": 0.9997135133279476,
+                "Against": 0.0002864866720524892
+            },
+            "outcomePercentage": "99.97",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 28
     }
 }
