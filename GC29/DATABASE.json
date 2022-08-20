@@ -3,72 +3,168 @@
         "title": "Reduce Recurring Payout to filipv",
         "url": "/GC29/JBP-243.md",
         "category": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-243",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1007799793659170896",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/Qmb3onNPwmz58ECytYUzhDJqNkthtDUHVDVrwo1GZBg888",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xf3177de26a34d7ce3f43a901e893beeed82f7a998a92dcec409e7fbda256cbee",
         "date": "2022-08-12",
+        "voteResults": {
+            "voteProposalId": "0xf3177de26a34d7ce3f43a901e893beeed82f7a998a92dcec409e7fbda256cbee",
+            "totalVotes": 87,
+            "scoresState": "final",
+            "scores": {
+                "For": 109566124.49591003,
+                "Against": 631,
+                "Abstain": 22680594.085926257
+            },
+            "percentages": {
+                "For": 0.9999942409538628,
+                "Against": 0.000005759046137161142
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 29
     },
     "52ef422129fe448696d9aa68c50f684a": {
         "title": "Add Brileigh and Matthew to the reserved list",
         "url": "/GC29/JBP-244.md",
         "category": "Reserved JBX Allocation",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-244",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1007789850642096198",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmX5W2zPUyt6MRjc2eNp2JGyxnVzU1dSstxwQ76czwpnRm",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x5da2c3e6ae0861c624252dfb2be88a76684200ed7ccd13034c15a8a40fd7614f",
         "date": "2022-08-12",
+        "voteResults": {
+            "voteProposalId": "0x5da2c3e6ae0861c624252dfb2be88a76684200ed7ccd13034c15a8a40fd7614f",
+            "totalVotes": 86,
+            "scoresState": "final",
+            "scores": {
+                "For": 124998775.16498992,
+                "Against": 101111.56082656316,
+                "Abstain": 7220452.783676101
+            },
+            "percentages": {
+                "For": 0.999191753378257,
+                "Against": 0.0008082466217429202
+            },
+            "outcomePercentage": "99.92",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 29
     },
     "d30b184d7b5e48c5af1f2a39d33b68f5": {
         "title": "Recurring payout for Lexicon Devils",
         "url": "/GC29/JBP-245.md",
         "category": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-245",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1007783934983147611",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmfHxPUtoHA2LVoLDXRH8i1KCNQbxLhdApMqfR5eCCX3S1",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xe0cf4cdc64cbcd73fe65db662b8cf476c1da9f4de228e970ebd004d834e1e7fa",
         "date": "2022-08-11",
+        "voteResults": {
+            "voteProposalId": "0xe0cf4cdc64cbcd73fe65db662b8cf476c1da9f4de228e970ebd004d834e1e7fa",
+            "totalVotes": 84,
+            "scoresState": "final",
+            "scores": {
+                "For": 98496210.60612476,
+                "Against": 72111.56082656317,
+                "Abstain": 34205624.69421294
+            },
+            "percentages": {
+                "For": 0.999268410385393,
+                "Against": 0.0007315896146068441
+            },
+            "outcomePercentage": "99.93",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 29
     },
     "df6d84490af146c9a03c835d656c20f0": {
         "title": "Renew recurring payout for zhape.eth",
         "url": "/GC29/JBP-247.md",
         "category": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-247",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1006945686736093245",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmVbR8uvVwitYPLowwFgDFvu69Cp6fCHpvaDQ9bPn5aa6S",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x5cb028aefffdc38ada26a53be9372b29234644fe158d653747237fa45331037d",
         "date": "2022-08-10",
+        "voteResults": {
+            "voteProposalId": "0x5cb028aefffdc38ada26a53be9372b29234644fe158d653747237fa45331037d",
+            "totalVotes": 90,
+            "scoresState": "final",
+            "scores": {
+                "For": 122780419.52791654,
+                "Against": 68361.92988331933,
+                "Abstain": 8128929.004610642
+            },
+            "percentages": {
+                "For": 0.999443527814667,
+                "Against": 0.0005564721853330107
+            },
+            "outcomePercentage": "99.94",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 29
     },
     "59c0a27b600c4c69b549d955fc0aac7a": {
         "title": "Twodam.eth payout renewal   ",
         "url": "/GC29/JBP-248.md",
         "category": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-248",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1006035873453838526",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmXR8k4AQMhMFFnoo1fZ3X77GkK4LQBtiwLQYSxQWZFbRR",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xa9f71eba8eac98f3c38c1a91dc78b10004753f3990423b285bd2227ee97e757e",
         "date": "2022-08-07",
+        "voteResults": {
+            "voteProposalId": "0xa9f71eba8eac98f3c38c1a91dc78b10004753f3990423b285bd2227ee97e757e",
+            "totalVotes": 87,
+            "scoresState": "final",
+            "scores": {
+                "For": 122639060.20157266,
+                "Against": 245480.12157746044,
+                "Abstain": 9375088.288614895
+            },
+            "percentages": {
+                "For": 0.9980023514680373,
+                "Against": 0.0019976485319627684
+            },
+            "outcomePercentage": "99.80",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 29
     },
     "b8ba749214b1495c906f6758652382f1": {
         "title": "Recurring payout for translation multisig",
         "url": "/GC29/JBP-249.md",
         "category": "Recurring Payment",
-        "status": "Voting",
+        "status": "Cancelled",
         "proposalId": "JBP-249",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1007783431763140698",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmP2xyRyg8YGZqEYknyXFU2cVx7aWhoSRFaRHf9XWorYmy",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x2f0f1f2ee95fae0810e50250425f7380f62515740bf602fa16dce1d12d1bf962",
         "date": "2022-07-30",
+        "voteResults": {
+            "voteProposalId": "0x2f0f1f2ee95fae0810e50250425f7380f62515740bf602fa16dce1d12d1bf962",
+            "totalVotes": 84,
+            "scoresState": "final",
+            "scores": {
+                "For": 48801469.31486085,
+                "Against": 57486142.2962118,
+                "Abstain": 56962472.12409945
+            },
+            "percentages": {
+                "For": 0.45914541285803895,
+                "Against": 0.540854587141961
+            },
+            "outcomePercentage": "54.09",
+            "outcomeEmoji": "❌"
+        },
         "governanceCycle": 29
     }
 }
