@@ -586,5 +586,77 @@
             "outcomeEmoji": "❌"
         },
         "governanceCycle": 29
+    },
+    "860ac63fee3843f8a0f1501a50c2429c": {
+        "title": "Remove Translation Payouts",
+        "url": "/GC30/JBP-254.md",
+        "category": "Payout Reduction",
+        "status": "Voting",
+        "proposalId": "JBP-254",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1012881260655423539",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmcupVM35QMsLPc37jzQPkmNijcV2qA4nbLEjk1LiSWodS",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xadbc20facf0cc06b99419a80cd1d346b9e617f387424cdaf57ed8f5a60eb6640",
+        "date": "2022-08-26",
+        "governanceCycle": 30
+    },
+    "d21439260edc4bcb8103d12019477e8e": {
+        "title": "Discount Rate -> 0.5%",
+        "url": "/GC30/JBP-255.md",
+        "category": "Funding Cycle Reconfiguration",
+        "status": "Voting",
+        "proposalId": "JBP-255",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1012881009181741146",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmZdVbqDebCLQHbf6syT8h9SCEVxFGPtcDfkTEmSAsLQ2s",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x56c31698566d532a903d7dfa8357de79a5d597d57da76236c289618d972b9ec4",
+        "date": "2022-08-26",
+        "governanceCycle": 30
+    },
+    "709ad99b784c4d98abd35cf340fe7daa": {
+        "title": "Add gnance.eth as a multi-sig delegate",
+        "url": "/GC30/JBP-250.md",
+        "category": "New Multi-Sig Member",
+        "status": "Voting",
+        "proposalId": "JBP-250",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1012868423329513514",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmZBtqnVx8aK59gQHfEwuVWNCfPFKrmSszwyKBN3tAmfyX",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x75eb613e0114f4a36cdc9bf7f40c159cf8d26cef7e3a0c2516b52c791a08e754",
+        "date": "2022-08-26",
+        "governanceCycle": 30
+    },
+    "53700cf500394c88a9d2354a21a96036": {
+        "title": "Add jmill to the reserved list",
+        "url": "/GC30/JBP-251.md",
+        "category": "Reserved JBX Allocation",
+        "status": "Voting",
+        "proposalId": "JBP-251",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1012865024823402596",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmbLertNYKHfe53U74ptYm2zos1iaFzXPYjZZqcJyXrNJ4",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x4c3dd07d0b01295759b7e4e4fcf4aa79f3bd51105b3f060f06f473a4417cfa7c",
+        "date": "2022-08-26",
+        "governanceCycle": 30
+    },
+    "bf0b8f29c9b14d6c8460dc34f7564cb2": {
+        "title": "100TM Contest Prize Improvement",
+        "url": "/GC30/JBP-252.md",
+        "category": "One-Time Payout",
+        "status": "Voting",
+        "proposalId": "JBP-252",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1012784140342526063",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmfXhaCDEL7Xtw8kBqfAwo5vtqhLiMR2eXoHEShSubpjDS",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xa3e682514c66355ced0a0979b3a125c0a05af39f87dc6d41de633fdfb773a00b",
+        "date": "2022-08-26",
+        "governanceCycle": 30
+    },
+    "df92ead677a04b879b3bdc44628d318d": {
+        "title": "0xBA5ED Payout Renewal",
+        "url": "/GC30/JBP-253.md",
+        "category": "Recurring Payment",
+        "status": "Voting",
+        "proposalId": "JBP-253",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1012784141042974720",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmbqFxAxBXGLckCzmVBoyU48ktLpktRBfQgTcGjHqm9h98",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xac1aee3dbf931ae12675f632fd7c656644d13c776ed51efe066430e70e3fdbfa",
+        "date": "2022-08-26",
+        "governanceCycle": 30
     }
 }
