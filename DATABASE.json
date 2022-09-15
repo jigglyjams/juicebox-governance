@@ -754,5 +754,77 @@
             "outcomePercentage": "99.51",
             "outcomeEmoji": "✅"
         }
+    },
+    "956f12badf55493396194f82259a308e": {
+        "title": "WAGMI Renew and Increase Reoccurring Payout",
+        "url": "/GC31/JBP-256.md",
+        "category": "Recurring Payment",
+        "status": "Voting",
+        "proposalId": "JBP-256",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1016822944116256822",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmSR8fQhiC1wWT4CUEbxZ2WPthhhHVm52AVypjpQqhbdEW",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x4c6004d6f661b14e128355a6b4bc7d00d0d9dc3c72663df83930c40da6d2454e",
+        "date": "2022-09-03",
+        "governanceCycle": 31
+    },
+    "f30866c8f1cb46e5a9c21c1dd866d28d": {
+        "title": "@0xSTVG  payout renewal",
+        "url": "/GC31/JBP-259.md",
+        "category": "Recurring Payment",
+        "status": "Voting",
+        "proposalId": "JBP-259",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1016458460889612370",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmabzMsG1i65X8DGSuxaAnX8AH8qyPmjFN6keDUUaXi4MT",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xeba6c7c1a3c7ca2df194a895dd5ae4b92f9773713a8cd80874378c360e060ace",
+        "date": "2022-09-03",
+        "governanceCycle": 31
+    },
+    "acae67097c4543f2ace3cb304a5ae13c": {
+        "title": "B ookkeeping  I mplementation  A djustment S  (BIAS)",
+        "url": "/GC31/JBP-260.md",
+        "category": "Recurring Payment & Reserved JBX Allocation",
+        "status": "Voting",
+        "proposalId": "JBP-260",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1017938560856358952",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmNqZ6P67XZCMcjdcw8PPjMfLW2TCD2h4wJSMHTF15EcYB",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xebec02d8a87d86019ffd1da918e7bbe13f54442fb1fa6466aef9a52daef7b144",
+        "date": "2022-09-05",
+        "governanceCycle": 31
+    },
+    "86d63564528843cab4068df892305167": {
+        "title": "$35k for DevCon Casa",
+        "url": "/GC31/JBP-261.md",
+        "category": "One-Time Payout",
+        "status": "Voting",
+        "proposalId": "JBP-261",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1017806413105467523",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmZSVZFrR8V7fE5LPetw79d81bmiVnxMY8hYx8hMARhTKV",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xbb9be15ce8a231861218fc907a0068bfbf289d3dbd49cfd85f10ae4ca56afa81",
+        "date": "2022-09-08",
+        "governanceCycle": 31
+    },
+    "51029c58df714be7be4505fc168a8098": {
+        "title": "$30k for Defifa",
+        "url": "/GC31/JBP-262.md",
+        "category": "One-Time Payout",
+        "status": "Voting",
+        "proposalId": "JBP-262",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1017839136352256102",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/Qmf4T8MxfrKpAwkSBTgKCLnbjWjdPEH3uwrt7xYyoxiuX3",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x34f9e75dd09bf2aa7fe3fa9fddb20ac75e70aec10c0babbc96b26a3b0b230846",
+        "date": "2022-09-09",
+        "governanceCycle": 31
+    },
+    "eddda75446ae49ed8a5943bfaf67d0b6": {
+        "title": "Reimburse Jango $22,500 for Code4rena Audit",
+        "url": "/GC31/JBP-263.md",
+        "category": "One-Time Payout",
+        "status": "Voting",
+        "proposalId": "JBP-263",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1017920689551974450",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/Qmf5D7UHLT9XMuYfVdaKz6L8nqcbsdJ3hPDbWnRRnmrSkE",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x7ec827433a9560a0734a0656bae0cd4bc5f25f335803fcf744ea98e36c389b6f",
+        "date": "2022-09-09",
+        "governanceCycle": 31
     }
 }
