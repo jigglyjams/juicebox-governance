@@ -926,61 +926,130 @@
     "5472a755033c4588942f98f2e355a20b": {
         "title": "Update Treasury Management",
         "url": "/GC32/JBP-264.md",
-        "category": "Process Upgrades",
+        "type": "Process Upgrades",
         "status": "Voting",
         "proposalId": "JBP-264",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1021150760886603806",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmVxNByoe1DagaPuK2c1QDFYmaokS3YRFehxzLnpRwjZLn",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xfc680aa82f73458a6f02659065c182125bb6d73bac4539a5ee3767f12a71bcc0",
         "date": "2022-09-18",
-        "governanceCycle": 32
+        "governanceCycle": 32,
+        "body": "# JBP-264 - Update Treasury Managementundefined"
     },
     "1f72bd86c41e40d4adeea279a707e32a": {
         "title": "Transfer 200k funds: Juicebox v1 → v2 treasury",
         "url": "/GC32/JBP-265.md",
-        "category": "Internal Bookkeeping Transfer",
-        "status": "Voting",
+        "type": "Internal Bookkeeping Transfer",
+        "status": "Approved",
         "proposalId": "JBP-265",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1022756023590723624",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmTypNqzjXUwfBiBy4avesLeHX26Poagy73bu6vXZyrqrC",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x1a481a88aea6a66a0f4964f75363995d91d9f936825e047c3735f7b09cfaf052",
         "date": "2022-09-22",
-        "governanceCycle": 32
+        "governanceCycle": 32,
+        "voteResults": {
+            "voteProposalId": "0x1a481a88aea6a66a0f4964f75363995d91d9f936825e047c3735f7b09cfaf052",
+            "totalVotes": 103,
+            "scoresState": "final",
+            "scores": {
+                "For": 109347626.28557909,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 1,
+                "Against": 0
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-265 - Transfer 200k funds: Juicebox v1 → v2 treasuryundefined"
     },
     "5a79eab4c8ef49ed8ff42b6b2ce79f25": {
         "title": "Give the Multisig permission to set tokenUriResolver",
         "url": "/GC32/JBP-267.md",
-        "category": "Protocol Upgrades",
-        "status": "Voting",
+        "type": "Protocol Upgrades",
+        "status": "Approved",
         "proposalId": "JBP-267",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1022986781542596701",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/Qmdpz5m7Ei1V38Sd3yrJ8jV4s2Afssf675MZLR22voTZJu",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x44ca6ed9c0ea0bcaac4a6cc96127de3185e2eac2cf1a8b47c2f026680a6c6c4c",
         "date": "2022-09-23",
-        "governanceCycle": 32
+        "governanceCycle": 32,
+        "voteResults": {
+            "voteProposalId": "0x44ca6ed9c0ea0bcaac4a6cc96127de3185e2eac2cf1a8b47c2f026680a6c6c4c",
+            "totalVotes": 94,
+            "scoresState": "final",
+            "scores": {
+                "For": 106681037.28854448,
+                "Against": 106209.80169804372,
+                "Abstain": 1000
+            },
+            "percentages": {
+                "For": 0.99900540743776,
+                "Against": 0.0009945925622400322
+            },
+            "outcomePercentage": "99.90",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-267 - Give the Multisig permission to set tokenUriResolverundefined"
     },
     "1b5bcf5696754b988aee9778d77d0d8a": {
         "title": "StudioDAO MVP launch grant",
         "url": "/GC32/JBP-268.md",
-        "category": "One-Time Payout",
-        "status": "Voting",
+        "type": "One-Time Payout",
+        "status": "Approved",
         "proposalId": "JBP-268",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1022718642493865984",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmXgWj6QdU4C9TekzvxbonSc9kE4Thgvi8fycccn4F25Qj",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xad722a254923137571906ecf18ea748a864aea07919b1400c4d7fdf1e861e9ea",
         "date": "2022-09-22",
-        "governanceCycle": 32
+        "governanceCycle": 32,
+        "voteResults": {
+            "voteProposalId": "0xad722a254923137571906ecf18ea748a864aea07919b1400c4d7fdf1e861e9ea",
+            "totalVotes": 95,
+            "scoresState": "final",
+            "scores": {
+                "For": 111496593.38277148,
+                "Against": 2110.4986359189343,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0.9999810715410812,
+                "Against": 0.000018928458918802407
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-268 - StudioDAO MVP launch grantundefined"
     },
     "7b041cecfca449d2b79ea83264955699": {
         "title": "Discontinue Tankbottom's Payout",
         "url": "/GC32/JBP-270.md",
-        "category": "Payout Reduction",
-        "status": "Voting",
+        "type": "Payout Reduction",
+        "status": "Approved",
         "proposalId": "JBP-270",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1022986530379288616",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmZoT8tVZeN19MRmvE7UiJVvLe4d2SqVLeVdAHZqcQhJwd",
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x38df0c59dd8d38119ba9afa8f63491a83cddd4ce860f216321720b0ce1e3d578",
         "date": "2022-09-23",
-        "governanceCycle": 32
+        "governanceCycle": 32,
+        "voteResults": {
+            "voteProposalId": "0x38df0c59dd8d38119ba9afa8f63491a83cddd4ce860f216321720b0ce1e3d578",
+            "totalVotes": 92,
+            "scoresState": "final",
+            "scores": {
+                "For": 128419105.41838108,
+                "Against": 108726.9737464345,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0.9991540589168678,
+                "Against": 0.0008459410831322333
+            },
+            "outcomePercentage": "99.92",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-270 - Discontinue Tankbottom's Payoutundefined"
     }
 }
