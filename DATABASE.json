@@ -1277,7 +1277,7 @@
         "title": "Renew Felixander’s Recurring Payout",
         "url": "/GC34/JBP-278.md",
         "type": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-278",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1033044667698262096",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmTEmnxNyWCNM2Z7pq7hxXDom9S1ppzDtRbMytJnCcgJGq",
@@ -1290,13 +1290,29 @@
                 ""
             ]
         },
-        "body": "# JBP-278 - Renew Felixander’s Recurring Payout\nAuthor: Felixander\nDate: 2022-10-24\n\n## Thesis:\n\nRenew Felixander’s recurring payout of $3,000 per funding cycle, concluding at FC#41.\n\n## Abstract:\n\nJuicebox has produced excellent content in the past several months that it didn’t have before. Due to the addition of new content creators since my time starting here, we are in the amazing position of regularly having high-quality and informative content being produced and shipped. An area where content creation is lacking, however, is around building the bannyverse brand and characters, and forging partnerships, artistic and otherwise, to drive distribution of the amazing content that we regularly produce. I will build out the bannyverse to grow artistically rich and off the wall, and will create partnerships that both build our brand as well as bring readers and hopefully project creators into our ecosystem.\n\n## Motivation:\n\nThis recurring payout renewal will allow Felixander to work on these projects with 100% of his energy.\n\n## Risks:\n\nMe not delivering on the work, me not securing partnerships or building the brand, me moving to Hawaii and drinking pina coladas rather than responding to discord messages.\n\n## Specification:\n\nExtend Felixander’s payout for seven more funding cycles, expiring at FC#41.\n\n## Rationale & examples of work:\n\nIn the previous recurring payout period, I have delivered a lot of content ranging from project profiles, project configuration guides, zany artistic banny stuff like the comic I made in conjunction with Burtula, some short fiction, and some short audio files profiling projects. A list of all of my work this past payout period can be found [here](/4cbccc86206842a192c9cea87370e755). (Still happy and plan to produce content like this from time to time btw, just refocusing my role to where I can make greater impact.)\n\nWith this proposal I will pivot my energy to lean heavily into two areas I’m passionate about: artistic expression in bannyverse and driving distribution by forging partnerships with other communities, which is currently a critical need at JB. By producing excellent bannyverse content, and building out the bannyverse in ways that grab attention, and are just downright awesome, we can build the banny brand and drive eyeballs to JB. Examples of this include but are not limited to creating a bannyverse short fiction series, producing more comics and art in partnership with ComicsDAO and other web3 organizations, creating NFT sale opportunities of bannyverse lore/bannies, and creating hype around the bannyverse and banny as a mascot, dropping sick memes, and so on. In this vein I have already made some headway, creating the banny comic with Burtula (edition 2 is in the works, and edition 1 will be featured as a ComicsDAO ad page), and manning the banny twitter, who has been bouncing around the twittersphere for the last few weeks. I’ve also produced a number of banny memes, and look forward to making them even more ridiculous as time goes on. I’m also keen on a bannyverse advent calendar via nouns-style NFT banny sale, and I’ve got a ton of other ideas that I can’t wait to pursue and bring to fruition. The goal of this, beyond simply creating amazing art, is also to bring people into the JB ecosystem, where they can access our community and our amazing content and newsletter. On the distribution side I also plan to reach out to other orgs and media to hype projects, like defifa, to try to generate press and engagement for JB.\n\n## Gratitude:\n\nPutting my efforts into more artistic and forging-partnerships directions is a dream come true for me. Feeling like the DAO has my back and entrusts me with such an important role means a lot to me. The open and honest feedback from you all in temp check means a lot to me, too. I can’t tell you how happy I am to move in this direction should the DAO support me on this, and how seriously I am committed to growing JB and the bannyverse. Thank you all for your support!\n"
+        "voteResults": {
+            "voteProposalId": "0xcccddf4b51e0a7c4077742a4e5271703adc9c8119e6e1736ac14f2f75495d1d7",
+            "totalVotes": 61,
+            "scoresState": "final",
+            "scores": {
+                "For": 143549042.4610114,
+                "Against": 2060.248702129832,
+                "Abstain": 2695027.905740563
+            },
+            "percentages": {
+                "For": 0.9999856479771785,
+                "Against": 0.000014352022821420117
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-278 - Renew Felixander’s Recurring Payoutundefined"
     },
     "b166c9935353416ea4734d717419c2f9": {
         "title": "Renew Recurring Payment Proposal for Viraz",
         "url": "/GC34/JBP-279.md",
         "type": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-279",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1032921076352696320",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmX1xbhVhKZC9psRPQeZTTUF5TAnNM38DuDWVJVnekSxHR",
@@ -1309,13 +1325,29 @@
                 ""
             ]
         },
-        "body": "# JBP-279 - Renew Recurring Payment Proposal for Viraz\n```plain text\nAuthor: Viraz\nDate: (YYYY-MM-DD) 2022-10-10\n```\n\n## Thesis:\n\nProposal from Viraz to renew his recurring payment for $4000 per Funding Cycle\n\n## Abstract:\n\nI have been working part-time on the protocol side of things, and have contributed over more than 12 funding cycles  and so I would like to continue the same and keep contributing towards the protocol side of things details of my previous proposals here\n\n## Motivation:\n\nSince my[ last recurring payment proposal](/38f2e6cab592453c94691954ca54fa14), here is the work I have done in chronological order:\n\n- Resumed work on the apple juice’s erc4626 vault branch   ([Commits](https://github.com/drgorillamd/applejuice-terminal/commits/feat/AJPayoutRedemptionTerminal))\n\n- Researched/Worked on testing yield strategies with hackable erc4626 vaults ([PR](https://github.com/xBA5ED/MockERC4626/pull/1)) \n\n- Worked on fixing up vault accounting in apple juice (ongoing pr with only test coverage left) ([PR](https://github.com/drgorillamd/applejuice-terminal/pull/4))\n\n- Worked on the initial version of Juice-Auction ([Commits](https://github.com/jbx-protocol/juice-nft-auction/commits?author=viraj124))\n\n- Worked on adding redemption feature in juice auction (ongoing pr) ([PR](https://github.com/jbx-protocol/juice-nft-auction/pull/4))\n\n- Research on using a Merkel root approach for Defifia ([PR](https://github.com/jbx-protocol/juice-defifa/pull/1))\n\n- Add remaining tests & cleaning up the governer contract (ongoing pr) ([PR](https://github.com/jbx-protocol/juice-defifa/pull/3))\n\n- Gas Golfing updates to c4a audit fund NFT ([PR](https://github.com/nnnnicholas/auditfund-nftdrop/pull/1))\n\n- Working on configuring funding cycles for Defifa ([Ongoing PR](https://github.com/jbx-protocol/juice-defifa/pull/4))\n\n## Risks:\n\n- Code quality isn’t up to the mark\n\n- Unable to deliver according to the timelines\n\n- Viraz could go AWOL\n\n## Specification:\n\nFor the next 7 funding cycles renew Viraz’s (`0x2dda8dc2f67f1eb94b250caefac9de16f70c5a51`) recurring payouts for $4000 per funding cycle in the JuiceBox DAO.\n\n## Rationale:\n\nIt’s been an amazing experience, especially from a skill point of view to be able to contribute don't the protocol side of things.\n\nI asked for feedback from senior protocol devs during renewing my proposal for the 1st time I think I have implemented that in my work approach and I have gotten better in terms of my skills & I want to continue to contribute on the protocol side of things and try to make a positive impact on the DAO.\n\nGoing forward, the general plan is getting defifa, veBanny out, resume on other projects like apple juice and juice auction depending on priorities, and/or continue helping on the protocol side of things for any other stuff depending on priority.\n\n## Timeline:\n\nEnter Recurring Payouts starting at FC 34 for the next 7 funding cycles until FC 40.\n\n## Copyright Disclaimer:\n\nCopyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).\n"
+        "voteResults": {
+            "voteProposalId": "0x14fd2d28e83c764366b33ee9bd9770775f4925b4ee249ee5b29d100c6127c4df",
+            "totalVotes": 62,
+            "scoresState": "final",
+            "scores": {
+                "For": 145790504.70213848,
+                "Against": 2110.4986359189343,
+                "Abstain": 1000
+            },
+            "percentages": {
+                "For": 0.9999855239675,
+                "Against": 0.000014476032500085944
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-279 - Renew Recurring Payment Proposal for Virazundefined"
     },
     "c8ddc47029704bed865102a918052268": {
         "title": "Renew Twodam's Recurring Payout",
         "url": "/GC34/JBP-280.md",
         "type": "Payout",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-280",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1032897162922709042",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmUJTaxbk89Pz2P5Niet7r9LCfzHo82c44QmXsSpsWPbfj",
@@ -1328,13 +1360,29 @@
                 ""
             ]
         },
-        "body": "# JBP-280 - Renew Twodam's Recurring Payout\n```plain text\nAuthor: twodam\nDate: (2022-10-21)\n```\n\n## Synopsis\n\nRenew recurring payout to twodam at 5000$ per cycle for 7 cycles.\n\n## Motivation\n\nAutomate the process, visualize the data and build tools around the ecosystems.\n\n## Specification\n\nPay 5000$ in ETH, from v2 treasury to the TwodamLab project (id: 115), every FC, for 7FC (ie: same action as in previous FC)\n\n## Rationale\n\n### Things I am going to do:\n\n- Nance Interface, work together with @jigglyjams to automate the process of reconfiguration, bookkeeping and progress notification.\n\n- Dune Dashboards, update with v1&v2&v3 data, maintain views which group the data of all projects by version.\n\n- Snapshot Plus, query snapshot data from [Flipside Crypto](https://flipsidecrypto.github.io/ethereum-models/#!/model/model.ethereum_models.core__ez_snapshot#details) and construct dashboards by space. (example like [Snapshot Mega Dashboard](https://app.flipsidecrypto.com/dashboard/HTKJ44) and [Snapshot Doddle Dashboard](https://app.flipsidecrypto.com/dashboard/_wqamM))\n\n- [Juicebox Center](https://juicetool.xyz/center), make it more complete and interactive.\n\n### Things I've done:\n\n- [Snapshot Plus](https://juicetool.xyz/snapshot/jbdao.eth), voting with search, filter and more stats.\n\n- [Nance Interface](https://juicetool.xyz/nance/juicebox), display proposals by GC and submit proposals with typed data, such as Payout Address, Amount and Cycles.\n\n- [Transaction Diff](https://juicetool.xyz/diff), visualize the diff of two transactions, support load transactions from Safe API directly.\n\n- [Juicebox Reconfiguration Compare](https://juicetool.xyz/juicebox), compare v1 reconfigurations more easily.\n\n- [Random Juicebox Project](https://juicetool.xyz/lucky), roll dice and get one random Juicebox Project.\n\n- [Proofread the Chinese transaction on Crowdin](https://crowdin.com/project/juicebox-interface/reports/top-members)\n\n- Review the bookkeeping files and schedule the transactions for Multisig members.\n\n## Timeline\n\nTake effect through reconfiguration of FC#34, end on FC#40\n"
+        "voteResults": {
+            "voteProposalId": "0xec5348f85dbbeff600f48795722f2c815be55f68b6bfad3889d8184f5f3e6cc6",
+            "totalVotes": 64,
+            "scoresState": "final",
+            "scores": {
+                "For": 148112819.2089429,
+                "Against": 2110.4986359189343,
+                "Abstain": 15645.08206208
+            },
+            "percentages": {
+                "For": 0.9999857509392194,
+                "Against": 0.000014249060780609096
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-280 - Renew Twodam's Recurring Payoutundefined"
     },
     "c9937c7364584ead878b8ce62dac85a0": {
         "title": "Renew and Increase Recurring Payout for Matthew and Brileigh",
         "url": "/GC34/JBP-281.md",
         "type": "Recurring Payment",
-        "status": "Voting",
+        "status": "Approved",
         "proposalId": "JBP-281",
         "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1033143716283678851",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmQXBcyGa9yBUKs2MsHhoficmfifoqv97CtPZRzfkSsVL5",
@@ -1347,6 +1395,22 @@
                 ""
             ]
         },
-        "body": "# JBP-281 - Renew and Increase Recurring Payout for Matthew and Brileigh\n## Synopsis\n\nRenew and increase Matthew and Brileigh’s recurring payout to continue producing high quality content including The Juicecast, Juicenews, articles on the JB blog, and YouTube videos.\n\n## Motivation\n\nJuicebox needs to continue developing content creation strategies in order to improve visibility, attract new project creators, and drive protocol growth. The best way to achieve this is through informative storytelling centered around projects being built on Juicebox, leveraging the network effect of successful JB projects while educating and inspiring new project creators.\n\nWe are a DAO content duo with experience producing web3 native content for orgs such as RAW DAO, JuiceboxDAO, and NounsDAO. Our contributions have helped build brand awareness, community, and engagement through fresh, original content that doesn’t feel too corporate. Matthew’s precision and attention to detail is balanced out by Brileigh’s speed and energy, allowing them to work together to hold each other accountable and keep the juice flowing.\n\n### Recent work\n\n🎙 [The Juicecast](https://anchor.fm/thejuicecast) is a cultural anthropology of Juicebox featuring interviews with community members building and maintaining projects using the protocol. We are responsible for all production tasks from interview prep, scheduling guests, co-hosting, editing, audio engineering, and Twitter campaigns.\n\nHere are the episodes that we have recently published:\n\n🎬 [Kenny from StudioDAO](https://anchor.fm/thejuicecast/episodes/Ep--9---Kenny-from-StudioDAO-e1mhmv7)\n\n🃏 [Sean from JokeDAO](https://anchor.fm/thejuicecast/episodes/Ep--12---David-Phelps-from-JokeDAO-e1p7oq6)\n\n🤽🏾 [Steve from Marin County Swim Association](https://anchor.fm/thejuicecast/episodes/Ep--11---Steve-from-Marin-County-Swim-Association-e1oet1l/a-a8n8de1)\n\n🗳️ [David Phelps from JokeDAO](https://anchor.fm/thejuicecast/episodes/Ep--12---David-Phelps-from-JokeDAO-e1p7oq6)\n\nEpisodes that have been recorded and not yet published:\n\n🍰 Jacopo from [Slice](https://slice.so/)\n\n📜 Five guests (so far) for the ConstitutionDAO deep dive multi-part retrospective podcast\n\nWe’ve started cross-posting podcast content as custom 4k waveform visualizers to [JBDAO YouTube ](https://www.youtube.com/c/JuiceboxDAO)for better visibility and searchability, helping us to better leverage the network effect of guests who appear on the podcast:\n\n![Custom 4k visualizer for Juicecast episode 7](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/070de5e7-993c-4b2e-9339-aae7591075d9/MoonDAOVisualizer.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221025%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221025T005427Z&X-Amz-Expires=3600&X-Amz-Signature=0348e1fbbf22f085ca274865d941351b345792e1222e1f21149c3afa037c815f&X-Amz-SignedHeaders=host&x-id=GetObject)\n\nWe’ve also recently started embedding chapter metadata into episodes to help listeners navigate to timestamps more easily in supported applications (e.g. Apple Podcasts, Overcast).\n\nIn addition to the audio Juicecast, we have recently started recording video interviews with high-profile guests to help bring new audiences into the Juicebox ecosystem:\n\n- [Bottom-up governance and the Guild + JokeDAO + Juicebox modular stack with David Phelps](https://www.youtube.com/watch?v=K_29qSArUz8&t=3s)\n\n- The creator economy and how web3 is falling short with Robin Schmidt (SuperMassive)\n\n![The creator economy and how web3 is falling short with Robin Schmidt (SuperMassive)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5d41c3a1-24f2-4970-a3a2-41cbb4c665ba/SuperMassive-still.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221025%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221025T005427Z&X-Amz-Expires=3600&X-Amz-Signature=909cc77ee2e67a39493d396c9687437b7505ef039e5961d0d1be67da876ad7aa&X-Amz-SignedHeaders=host&x-id=GetObject)\n\n✍🏻 In addition to the [Juicecast](https://anchor.fm/thejuicecast), we have contributed to the [JB blog](https://info.juicebox.money/blog) by writing about projects as case studies of what can be successfully built on Juicebox. These articles have been paired with configuration how-to articles to give new project creators a concise breakdown of how past projects were configured and inspire them to create projects with similar structures. Our goal with these articles is also to give project creators space to talk about their work while helping them achieve better visibility.\n\nWritten content that we have published on the JB blog:\n\n🚀 [MoonDAO, a worldwide collective decentralizing space exploration and research](https://info.juicebox.money/blog/2022-10-11-moondao)\n\n🌜 [How MoonDAO was configured on Juicebox](https://info.juicebox.money/blog/2022-10-18-moondao-config)\n\n🧊 [Lexicon Devils, A Metaverse Architecture Guild Running on Juicebox](https://info.juicebox.money/blog/2022-07-14-lexicon-devils/)\n\n🏗 [How Lexicon Devils is configured on Juicebox](https://info.juicebox.money/blog/2022-09-27-lexicon-devils-config)\n\n🎸 [How FORMING is configured on Juicebox](https://info.juicebox.money/blog/2022-10-04-forming-config)\n\n🎞 [StudioDAO, A Decentralized Movie Studio Flipping the Script on Funding Films](https://info.juicebox.money/blog/2022-09-07-studiodao)\n\n🎬 [How StudioDAO and its sub-projects are configured on Juicebox](https://info.juicebox.money/blog/2022-09-20-studiodao-config)\n\n📰 EXTRA, EXTRA! In August we launched [Juicenews](https://juicenews.beehiiv.com/), a weekly newsletter capturing all of the juicy goodness that JBDAO contributors bring to the ecosystem including recent podcast and blog articles, video tutorials, governance recaps, and town hall summaries.\n\n### Upcoming work\n\n🎙️ We’ll continue co-hosting and producing [The Juicecast](https://anchor.fm/thejuicecast) as a storytelling vehicle for projects and communities built on the protocol. Here are a few episodes that we have in the pipeline:\n\n📜 A retrospective deep dive series on ConstitutionDAO (3+ episodes)\n\n🎸 FORMING, a hyper-verse concert series by Lexicon Devils\n\n🍊 The frontend wizards of Peel managing a DAOified product team on Juicebox\n\n🕹 How G-Play Studios is making P2E GameFi more competitive and addicting \n\n🌐 Metaverse interoperability with Jin from OpenVoxels\n\n✍🏻 Alongside [The Juicecast](https://anchor.fm/thejuicecast), we’ll continue writing long-form content on the [JB blog](https://info.juicebox.money/blog) that uplifts projects, leverages their communities to spread the JB meme, and demonstrates clear use cases for the protocol. Here are a few articles that we have in the pipeline:\n\n📜 A ConstitutionDAO post-mortem: the story behind raising $42M on Juicebox + config article\n\n🎨 TileDAO: a community-owned NFT project built on Juicebox + config article\n\n🍰 Slice: a decentralized commerce protocol running on Juicebox + config article\n\n🍊 PeelDAO, a DAOified product team building and running on Juicebox + config article\n\n🗞️ We’ll continue editing and publishing a weekly edition of [Juicenews](https://juicenews.beehiiv.com/), web3’s juiciest newsletter jam-packed with recent podcast and blog articles, video tutorials, governance recaps, protocol updates, and town hall summaries.\n\n## Specification\n\nAdd $3000 USD recurring payout from FC#34 to FC#40 to matthewbrooks.eth from the v2 treasury\n\nAdd $3000 USD recurring payout from FC#34 to FC#40 to brileigh.eth from the v2 treasury\n\nOnce v3 is live on mainnet, Brileigh and Matthew will create a JB project and inform the bookkeeper to transfer this payout to the project instead of the addresses listed above.\n\n## Rationale**:**\n\nWe are proposing an increased recurring payout to reflect the added workload and output that has emerged over the last seven funding cycles. Since the start of our previous recurring payout, we have built up a comprehensive content strategy and are asking for JBDAO’s support to continue bringing greater visibility to the Juicebox ecosystem. \n\n## **Timeline:**\n\nThis proposal should take effect immediately, starting in FC#34 and ending in FC#40.\n"
+        "voteResults": {
+            "voteProposalId": "0xf1dd24a81c796f6b15dba72d8879ccb05244d45fc7ace9fbaa33ec1831d3db82",
+            "totalVotes": 67,
+            "scoresState": "final",
+            "scores": {
+                "For": 164737145.67565152,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 1,
+                "Against": 0
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-281 - Renew and Increase Recurring Payout for Matthew and Brileighundefined"
     }
 }
