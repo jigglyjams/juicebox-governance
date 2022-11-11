@@ -1,5 +1,5 @@
 # JBP-287 - DrGorilla.eth赔付更新
-````plain text
+```
 作者。DrGorilla.eth#8862
 日期：2022-11-04
 ```
