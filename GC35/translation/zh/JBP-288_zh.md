@@ -1,5 +1,5 @@
 # JBP-288 - 更新和增加 Lexicon Devils/Forming 的重复支付费用
-````纯文本
+```
 作者。Lexicon Devils
 日期: (2022-11-04)
 ```
