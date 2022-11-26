@@ -1700,5 +1700,170 @@
             "outcomeEmoji": "✅"
         },
         "body": "# JBP-289 - Renew and Increase Recurring Payout to filipvundefined"
+    },
+    "c90de157c9b74060bf7399e92f463c05": {
+        "title": "Update Juicebox Snapshot Strategies",
+        "url": "/GC35/JBP-291.md",
+        "type": "Process Upgrades",
+        "status": "Approved",
+        "proposalId": "JBP-291",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043006846300069888",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmThqBrXpX8YEM3L64ucsLmkSm1xdmDotJno8q14BGDNH4",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xde3ce2c9876d1cc9f15b9237887d546c21eae82c187b66d8e5ca1f5528f27b17",
+        "date": "2022-11-17",
+        "governanceCycle": 35,
+        "version": "",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0xde3ce2c9876d1cc9f15b9237887d546c21eae82c187b66d8e5ca1f5528f27b17",
+            "totalVotes": 82,
+            "scoresState": "final",
+            "scores": {
+                "For": 90265119.54524784,
+                "Against": 40130.46164570192,
+                "Abstain": 10678953.44727728
+            },
+            "percentages": {
+                "For": 0.9995556131936666,
+                "Against": 0.0004443868063333917
+            },
+            "outcomePercentage": "99.96",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-291 - Update Juicebox Snapshot Strategiesundefined"
+    },
+    "3e02e02cdce64e818477d127c00f8574": {
+        "title": "Update Reserved Token Allocation; Reduce DAO Reserve",
+        "url": "/GC35/JBP-292.md",
+        "type": "Funding Cycle Reconfiguration",
+        "status": "Cancelled",
+        "proposalId": "JBP-292",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043007221887418499",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmRdboxxMVfQn52Wnx4fL9XvFkEL5qsgB93mcBguLEBUme",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xd1f415648ce2ee72a907a59a1d7681d2814033bdf236a28f934233d0f1dad43f",
+        "date": "2022-11-17",
+        "governanceCycle": 35,
+        "version": "",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0xd1f415648ce2ee72a907a59a1d7681d2814033bdf236a28f934233d0f1dad43f",
+            "totalVotes": 79,
+            "scoresState": "final",
+            "scores": {
+                "For": 59691904.197573155,
+                "Against": 22228471.421474583,
+                "Abstain": 15594176.65558645
+            },
+            "percentages": {
+                "For": 0.7286575988757293,
+                "Against": 0.2713424011242708
+            },
+            "outcomePercentage": "27.13",
+            "outcomeEmoji": "❌"
+        },
+        "body": "# JBP-292 - Update Reserved Token Allocation; Reduce DAO Reserveundefined"
+    },
+    "05e880e037ff455abdd0e07f3a6c2b5a": {
+        "title": "Reallocate Undeposited Multisig ETH",
+        "url": "/GC35/JBP-293.md",
+        "type": "Internal Bookkeeping Transfer",
+        "status": "Cancelled",
+        "proposalId": "JBP-293",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043012382374506496",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmXZCAEzx8fEZgQBDLR5VACoqnAbCykSXA7rHrG7MLwakd",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xa21c55be8087508c30d92cc6254ce86c8d26032dd802462956b60a8e16c52652",
+        "date": "2022-11-17",
+        "governanceCycle": 35,
+        "version": "",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0xa21c55be8087508c30d92cc6254ce86c8d26032dd802462956b60a8e16c52652",
+            "totalVotes": 81,
+            "scoresState": "final",
+            "scores": {
+                "For": 57198148.24833531,
+                "Against": 26612302.934160657,
+                "Abstain": 16796321.565897077
+            },
+            "percentages": {
+                "For": 0.6824703535336807,
+                "Against": 0.3175296464663193
+            },
+            "outcomePercentage": "31.75",
+            "outcomeEmoji": "❌"
+        },
+        "body": "# JBP-293 - Reallocate Undeposited Multisig ETHundefined"
+    },
+    "da9d039610a84438b87a141c2e4389d6": {
+        "title": "Renew and increase recurring payout for 0xBA5ED",
+        "url": "/GC35/JBP-294.md",
+        "type": "Recurring Payment",
+        "status": "Approved",
+        "proposalId": "JBP-294",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043208729673351209",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmYzAxa9NnWwrs2mq8FWYUWEHCwVkf2rff5Nt5fXFikVgY",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x9f0a093947859a85ca3f462568515657e195ebe43e14fdb240c68d22cea5f1a6",
+        "date": "2022-11-18",
+        "governanceCycle": 35,
+        "version": "V2",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0x9f0a093947859a85ca3f462568515657e195ebe43e14fdb240c68d22cea5f1a6",
+            "totalVotes": 97,
+            "scoresState": "final",
+            "scores": {
+                "For": 97537048.12962943,
+                "Against": 4234338.825164718,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0.9583936217058182,
+                "Against": 0.041606378294181734
+            },
+            "outcomePercentage": "95.84",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-294 - Renew and increase recurring payout for 0xBA5EDundefined"
+    },
+    "108f9e7ed26d4ae499f9a421b47ae0d1": {
+        "title": "Reimburse CongiDAO for payed invoices",
+        "url": "/GC35/JBP-298.md",
+        "type": "One-Time Payout",
+        "status": "Cancelled",
+        "proposalId": "JBP-298",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043312567365410907",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmTBnNzoL24tRoqvQ2AwhWyHA3YDgYusSCFBMpo1y3Mvo6",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xe7c5001043feb87f176d0f70bd31c16819dc44771ee68bec093e63bbc0bfec2a",
+        "date": "2022-11-19",
+        "governanceCycle": 35,
+        "version": "V2",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0xe7c5001043feb87f176d0f70bd31c16819dc44771ee68bec093e63bbc0bfec2a",
+            "totalVotes": 81,
+            "scoresState": "final",
+            "scores": {
+                "For": 77432387.31463158,
+                "Against": 3819267.446713636,
+                "Abstain": 21887092.237078667
+            },
+            "percentages": {
+                "For": 0.9529945887510635,
+                "Against": 0.04700541124893643
+            },
+            "outcomePercentage": "4.70",
+            "outcomeEmoji": "❌"
+        },
+        "body": "# JBP-298 - Reimburse CongiDAO for payed invoicesundefined"
     }
 }

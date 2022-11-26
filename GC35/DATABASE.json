@@ -1,290 +1,167 @@
 {
-    "6d18b61867f14409b182963ec2846ee9": {
-        "title": "Renew and increase recurring payout for zhape",
-        "url": "/GC35/JBP-282.md",
-        "type": "Recurring Payment",
-        "status": "Approved",
-        "proposalId": "JBP-282",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1037762918810386472",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmdhUeVs4bAFCHzHSBwQiaPQB37eXMJuWGRKM6fFXWc3Un",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xd1b22f172cf2e1699918ddf9625953ced016a033e2733cb1a1033b0f8ce896c9",
-        "date": "2022-11-02",
-        "governanceCycle": 35,
-        "version": "",
-        "voteSetup": {
-            "type": "basic",
-            "choices": [
-                ""
-            ]
-        },
-        "voteResults": {
-            "voteProposalId": "0xd1b22f172cf2e1699918ddf9625953ced016a033e2733cb1a1033b0f8ce896c9",
-            "totalVotes": 81,
-            "scoresState": "final",
-            "scores": {
-                "For": 174327180.6853511,
-                "Against": 33882.014319999995,
-                "Abstain": 1987585.739704052
-            },
-            "percentages": {
-                "For": 0.9998056790100073,
-                "Against": 0.00019432098999281857
-            },
-            "outcomePercentage": "99.98",
-            "outcomeEmoji": "✅"
-        },
-        "body": "# JBP-282 - Renew and increase recurring payout for zhapeundefined"
-    },
-    "0eb91aec6e384391a517b552472bf26f": {
-        "title": "Renew Peel’s Recurring Payout",
-        "url": "/GC35/JBP-283.md",
-        "type": "Payout",
-        "status": "Approved",
-        "proposalId": "JBP-283",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1037857057199640628",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmTMhbp1SZHhjqpTaS8UF9zro3dBaRy69XDEoV2j2sGzhU",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xc006996516d3bc405b055cbad5decd6776236c9fffbea2cdf934cee63827d913",
-        "date": "2022-11-04",
-        "governanceCycle": 35,
-        "version": "",
-        "voteSetup": {
-            "type": "basic",
-            "choices": [
-                ""
-            ]
-        },
-        "voteResults": {
-            "voteProposalId": "0xc006996516d3bc405b055cbad5decd6776236c9fffbea2cdf934cee63827d913",
-            "totalVotes": 81,
-            "scoresState": "final",
-            "scores": {
-                "For": 93542696.06973486,
-                "Against": 37905800.80934324,
-                "Abstain": 3343413.203537376
-            },
-            "percentages": {
-                "For": 0.7116300170080037,
-                "Against": 0.2883699829919964
-            },
-            "outcomePercentage": "71.16",
-            "outcomeEmoji": "✅"
-        },
-        "body": "# JBP-283 - Renew Peel’s Recurring Payoutundefined"
-    },
-    "a9cee4d520c845f9924a1278c211df1f": {
-        "title": "Revoke JBP-186: Launch Treasury Management",
-        "url": "/GC35/JBP-284.md",
+    "c90de157c9b74060bf7399e92f463c05": {
+        "title": "Update Juicebox Snapshot Strategies",
+        "url": "/GC35/JBP-291.md",
         "type": "Process Upgrades",
         "status": "Approved",
-        "proposalId": "JBP-284",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1037776889537904700",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmZ358oXUmMbcCbKj2TL6M9p774oTFY5kqBes4sKMgAE2S",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x97c53018287a63f88c4905b52ddd55ad0833e25311d3b0b226989e37abdcdeb9",
-        "date": "2022-11-03",
+        "proposalId": "JBP-291",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043006846300069888",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmThqBrXpX8YEM3L64ucsLmkSm1xdmDotJno8q14BGDNH4",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xde3ce2c9876d1cc9f15b9237887d546c21eae82c187b66d8e5ca1f5528f27b17",
+        "date": "2022-11-17",
         "governanceCycle": 35,
         "version": "",
         "voteSetup": {
-            "type": "basic",
-            "choices": [
-                ""
-            ]
+            "type": "basic"
         },
         "voteResults": {
-            "voteProposalId": "0x97c53018287a63f88c4905b52ddd55ad0833e25311d3b0b226989e37abdcdeb9",
-            "totalVotes": 85,
+            "voteProposalId": "0xde3ce2c9876d1cc9f15b9237887d546c21eae82c187b66d8e5ca1f5528f27b17",
+            "totalVotes": 82,
             "scoresState": "final",
             "scores": {
-                "For": 138005989.4449359,
-                "Against": 103522.04296,
-                "Abstain": 15593867.090486549
+                "For": 90265119.54524784,
+                "Against": 40130.46164570192,
+                "Abstain": 10678953.44727728
             },
             "percentages": {
-                "For": 0.9992504350942617,
-                "Against": 0.0007495649057383917
+                "For": 0.9995556131936666,
+                "Against": 0.0004443868063333917
             },
-            "outcomePercentage": "99.93",
+            "outcomePercentage": "99.96",
             "outcomeEmoji": "✅"
         },
-        "body": "# JBP-284 - Revoke JBP-186: Launch Treasury Managementundefined"
+        "body": "# JBP-291 - Update Juicebox Snapshot Strategiesundefined"
     },
-    "ad4df91bbeaa4328a2a2591574baea79": {
-        "title": "Governance Process - Amendment 6",
-        "url": "/GC35/JBP-285.md",
-        "type": "Process Upgrades",
-        "status": "Approved",
-        "proposalId": "JBP-285",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1037776890095738890",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmexQza3b3QNi8B2Hsb82pZvJDuRtz97L47qmVTs8SCLEw",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xf3c825994d186fd4b63d8b60dec39ccf21cb9dfeff3f99d707dfab997901052e",
-        "date": "2022-11-03",
-        "governanceCycle": 35,
-        "version": "",
-        "voteSetup": {
-            "type": "basic",
-            "choices": [
-                ""
-            ]
-        },
-        "voteResults": {
-            "voteProposalId": "0xf3c825994d186fd4b63d8b60dec39ccf21cb9dfeff3f99d707dfab997901052e",
-            "totalVotes": 76,
-            "scoresState": "final",
-            "scores": {
-                "For": 116145517.8864853,
-                "Against": 2148.1700759189343,
-                "Abstain": 10663290.475377835
-            },
-            "percentages": {
-                "For": 0.9999815048364822,
-                "Against": 0.000018495163517731173
-            },
-            "outcomePercentage": "100.00",
-            "outcomeEmoji": "✅"
-        },
-        "body": "# JBP-285 - Governance Process - Amendment 6undefined"
-    },
-    "d2bb6d2c7b004572abac63d82bfbd1c8": {
-        "title": "Distribute the DAO’s Thirsty Thirsty Memberships",
-        "url": "/GC35/JBP-286.md",
-        "type": "Process Upgrades",
+    "3e02e02cdce64e818477d127c00f8574": {
+        "title": "Update Reserved Token Allocation; Reduce DAO Reserve",
+        "url": "/GC35/JBP-292.md",
+        "type": "Funding Cycle Reconfiguration",
         "status": "Cancelled",
-        "proposalId": "JBP-286",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1037776890489995386",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmfPovtaS1B6ehHkUYUVNS5JaSdFio3wwhGrdWVW6hBe74",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x91563a522c8cdccab5fd1c9d2f6f1908b05153693eba93aa96bb2f58790123d8",
-        "date": "2022-11-03",
+        "proposalId": "JBP-292",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043007221887418499",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmRdboxxMVfQn52Wnx4fL9XvFkEL5qsgB93mcBguLEBUme",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xd1f415648ce2ee72a907a59a1d7681d2814033bdf236a28f934233d0f1dad43f",
+        "date": "2022-11-17",
         "governanceCycle": 35,
         "version": "",
         "voteSetup": {
-            "type": "basic",
-            "choices": [
-                ""
-            ]
+            "type": "basic"
         },
         "voteResults": {
-            "voteProposalId": "0x91563a522c8cdccab5fd1c9d2f6f1908b05153693eba93aa96bb2f58790123d8",
-            "totalVotes": 77,
+            "voteProposalId": "0xd1f415648ce2ee72a907a59a1d7681d2814033bdf236a28f934233d0f1dad43f",
+            "totalVotes": 79,
             "scoresState": "final",
             "scores": {
-                "For": 72595187.43414395,
-                "Against": 2148.1700759189343,
-                "Abstain": 18766071.46191512
+                "For": 59691904.197573155,
+                "Against": 22228471.421474583,
+                "Abstain": 15594176.65558645
             },
             "percentages": {
-                "For": 0.9999704097945462,
-                "Against": 0.000029590205453684274
+                "For": 0.7286575988757293,
+                "Against": 0.2713424011242708
             },
-            "outcomePercentage": "0.00",
+            "outcomePercentage": "27.13",
             "outcomeEmoji": "❌"
         },
-        "body": "# JBP-286 - Distribute the DAO’s Thirsty Thirsty Membershipsundefined"
+        "body": "# JBP-292 - Update Reserved Token Allocation; Reduce DAO Reserveundefined"
     },
-    "fa7415f4a0bb481d909963fd46d85d71": {
-        "title": "DrGorilla.eth payout renewal",
-        "url": "/GC35/JBP-287.md",
-        "type": "Recurring Payment",
-        "status": "Approved",
-        "proposalId": "JBP-287",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1038057677047210024",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmZtHLubiFNbhvRPhoooLB8nKsA9vYXws8yrLuK1dmEK1i",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xbce7f01a05be287adca62597976532d70c0d535c2cf3ca3fe1bffc9914e19c27",
-        "date": "2022-11-04",
+    "05e880e037ff455abdd0e07f3a6c2b5a": {
+        "title": "Reallocate Undeposited Multisig ETH",
+        "url": "/GC35/JBP-293.md",
+        "type": "Internal Bookkeeping Transfer",
+        "status": "Cancelled",
+        "proposalId": "JBP-293",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043012382374506496",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmXZCAEzx8fEZgQBDLR5VACoqnAbCykSXA7rHrG7MLwakd",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xa21c55be8087508c30d92cc6254ce86c8d26032dd802462956b60a8e16c52652",
+        "date": "2022-11-17",
         "governanceCycle": 35,
         "version": "",
         "voteSetup": {
-            "type": "basic",
-            "choices": [
-                ""
-            ]
+            "type": "basic"
         },
         "voteResults": {
-            "voteProposalId": "0xbce7f01a05be287adca62597976532d70c0d535c2cf3ca3fe1bffc9914e19c27",
-            "totalVotes": 85,
-            "scoresState": "final",
-            "scores": {
-                "For": 129799575.3598257,
-                "Against": 0,
-                "Abstain": 8310378.229038844
-            },
-            "percentages": {
-                "For": 1,
-                "Against": 0
-            },
-            "outcomePercentage": "100.00",
-            "outcomeEmoji": "✅"
-        },
-        "body": "# JBP-287 - DrGorilla.eth payout renewalundefined"
-    },
-    "2c301ac677d240aeb2f59f264b8efdcf": {
-        "title": "Renew and Increase Reoccurring Payout For Lexicon Devils/Forming",
-        "url": "/GC35/JBP-288.md",
-        "type": "Recurring Payment",
-        "status": "Approved",
-        "proposalId": "JBP-288",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1038195366836838600",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmZtFYNyPoDss2pYopuCcY8Dy4RMGLtfsH9fhNsd4x578W",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x3fa58be41b9eea772d066fec0c419503ef6d778d6ccc2d9393cc895d24e4d3d5",
-        "date": "2022-11-04",
-        "governanceCycle": 35,
-        "version": "",
-        "voteSetup": {
-            "type": "basic",
-            "choices": [
-                ""
-            ]
-        },
-        "voteResults": {
-            "voteProposalId": "0x3fa58be41b9eea772d066fec0c419503ef6d778d6ccc2d9393cc895d24e4d3d5",
+            "voteProposalId": "0xa21c55be8087508c30d92cc6254ce86c8d26032dd802462956b60a8e16c52652",
             "totalVotes": 81,
             "scoresState": "final",
             "scores": {
-                "For": 95138123.58848068,
-                "Against": 14004323.9734307,
-                "Abstain": 15982109.054040622
+                "For": 57198148.24833531,
+                "Against": 26612302.934160657,
+                "Abstain": 16796321.565897077
             },
             "percentages": {
-                "For": 0.8716876496150895,
-                "Against": 0.12831235038491057
+                "For": 0.6824703535336807,
+                "Against": 0.3175296464663193
             },
-            "outcomePercentage": "87.17",
-            "outcomeEmoji": "✅"
+            "outcomePercentage": "31.75",
+            "outcomeEmoji": "❌"
         },
-        "body": "# JBP-288 - Renew and Increase Reoccurring Payout For Lexicon Devils/Formingundefined"
+        "body": "# JBP-293 - Reallocate Undeposited Multisig ETHundefined"
     },
-    "6797a15d40bd4df3b1910c82f6213d8c": {
-        "title": "Renew and Increase Recurring Payout to filipv",
-        "url": "/GC35/JBP-289.md",
+    "da9d039610a84438b87a141c2e4389d6": {
+        "title": "Renew and increase recurring payout for 0xBA5ED",
+        "url": "/GC35/JBP-294.md",
         "type": "Recurring Payment",
         "status": "Approved",
-        "proposalId": "JBP-289",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1038240325472366612",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmdbbVtcsP5T3TTUHx17b3fdcDC1FC3XxD6Ua6zbR8wRgs",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x30483f1c3943cf9db561d5d6c7c4955db6d0f30c6e5b036628632082f270b363",
-        "date": "2022-11-04",
+        "proposalId": "JBP-294",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043208729673351209",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmYzAxa9NnWwrs2mq8FWYUWEHCwVkf2rff5Nt5fXFikVgY",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x9f0a093947859a85ca3f462568515657e195ebe43e14fdb240c68d22cea5f1a6",
+        "date": "2022-11-18",
         "governanceCycle": 35,
-        "version": "",
+        "version": "V2",
         "voteSetup": {
-            "type": "basic",
-            "choices": [
-                ""
-            ]
+            "type": "basic"
         },
         "voteResults": {
-            "voteProposalId": "0x30483f1c3943cf9db561d5d6c7c4955db6d0f30c6e5b036628632082f270b363",
-            "totalVotes": 93,
+            "voteProposalId": "0x9f0a093947859a85ca3f462568515657e195ebe43e14fdb240c68d22cea5f1a6",
+            "totalVotes": 97,
             "scoresState": "final",
             "scores": {
-                "For": 162709741.72167906,
-                "Against": 37.67144,
-                "Abstain": 11082546.322204107
+                "For": 97537048.12962943,
+                "Against": 4234338.825164718,
+                "Abstain": 0
             },
             "percentages": {
-                "For": 0.9999997684746414,
-                "Against": 2.3152535846651825e-7
+                "For": 0.9583936217058182,
+                "Against": 0.041606378294181734
             },
-            "outcomePercentage": "100.00",
+            "outcomePercentage": "95.84",
             "outcomeEmoji": "✅"
         },
-        "body": "# JBP-289 - Renew and Increase Recurring Payout to filipvundefined"
+        "body": "# JBP-294 - Renew and increase recurring payout for 0xBA5EDundefined"
+    },
+    "108f9e7ed26d4ae499f9a421b47ae0d1": {
+        "title": "Reimburse CongiDAO for payed invoices",
+        "url": "/GC35/JBP-298.md",
+        "type": "One-Time Payout",
+        "status": "Cancelled",
+        "proposalId": "JBP-298",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1043312567365410907",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmTBnNzoL24tRoqvQ2AwhWyHA3YDgYusSCFBMpo1y3Mvo6",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xe7c5001043feb87f176d0f70bd31c16819dc44771ee68bec093e63bbc0bfec2a",
+        "date": "2022-11-19",
+        "governanceCycle": 35,
+        "version": "V2",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0xe7c5001043feb87f176d0f70bd31c16819dc44771ee68bec093e63bbc0bfec2a",
+            "totalVotes": 81,
+            "scoresState": "final",
+            "scores": {
+                "For": 77432387.31463158,
+                "Against": 3819267.446713636,
+                "Abstain": 21887092.237078667
+            },
+            "percentages": {
+                "For": 0.9529945887510635,
+                "Against": 0.04700541124893643
+            },
+            "outcomePercentage": "4.70",
+            "outcomeEmoji": "❌"
+        },
+        "body": "# JBP-298 - Reimburse CongiDAO for payed invoicesundefined"
     }
 }
