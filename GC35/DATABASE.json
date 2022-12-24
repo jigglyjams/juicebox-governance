@@ -1,295 +1,324 @@
 {
-    "95c841dcbbd04159939f6f38d764d3ae": {
-        "title": "Renew and Reduce 0xSTVG Recurring Payout",
-        "url": "/GC35/JBP-299.md",
-        "type": "Payout",
-        "status": "Approved",
-        "proposalId": "JBP-299",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1046884345069191168",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmNS5ay972DoWNMAvmT6vrJ4j2iMWU4FnpfmK9DPFfvKfd",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xfba39772d0d8a15aa4d3115736f0e29f45b6f59f9f435bc29d8eccc4bb3938c3",
-        "date": "2022-11-22",
-        "governanceCycle": 35,
-        "version": "V2",
-        "voteSetup": {},
-        "voteResults": {
-            "voteProposalId": "0xfba39772d0d8a15aa4d3115736f0e29f45b6f59f9f435bc29d8eccc4bb3938c3",
-            "totalVotes": 60,
-            "scoresState": "final",
-            "scores": {
-                "For": 182376957.29443064,
-                "Against": 264501.97517463315,
-                "Abstain": 3721687.478125016
-            },
-            "percentages": {
-                "For": 0.9985517966389866,
-                "Against": 0.0014482033610133933
-            },
-            "outcomePercentage": "99.86",
-            "outcomeEmoji": "✅"
-        },
-        "body": "# JBP-299 - Renew and Reduce 0xSTVG Recurring Payoutundefined"
-    },
-    "570bd48f648b4333a8aecae03ec17c66": {
-        "title": "Update Reserved Token Allocation; Maintain DAO Reserve",
-        "url": "/GC35/JBP-300.md",
-        "type": "Funding Cycle Reconfiguration",
-        "status": "Approved",
-        "proposalId": "JBP-300",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1046833500348756058",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmPa16jAzUn4P4Kb66QGGcxuNuRha6yLVZ9fWrZ2TawByN",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x5bae7d49eb9165338dfaa51b900bd92581320fb81303f17041355349471d1243",
-        "date": "2022-11-28",
+    "0562102b96224ba1b7fb820d2ca5e4ec": {
+        "title": "Distribute 15M JBX to Reserved List addresses",
+        "url": "/GC35/JBP-310.md",
+        "type": "Reserved JBX Allocation",
+        "status": "Cancelled",
+        "proposalId": "JBP-310",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1052301913879744552",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmVQ9zQjC7MvHobL4hY5ozeVNh2M4NQdvdLQGEuMPyNZ4x",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x04425a12b4f747cf87b79ee504ba07173d32cc139e0432aee08852161097938a",
+        "date": "2022-12-16",
         "governanceCycle": 35,
         "version": "",
         "voteSetup": {
             "type": "basic"
         },
         "voteResults": {
-            "voteProposalId": "0x5bae7d49eb9165338dfaa51b900bd92581320fb81303f17041355349471d1243",
-            "totalVotes": 58,
-            "scoresState": "final",
-            "scores": {
-                "For": 105039473.56653409,
-                "Against": 1340449.5454639348,
-                "Abstain": 14780044.034425035
-            },
-            "percentages": {
-                "For": 0.9873994123491451,
-                "Against": 0.012600587650854889
-            },
-            "outcomePercentage": "98.74",
-            "outcomeEmoji": "✅"
-        },
-        "body": "# JBP-300 - Update Reserved Token Allocation; Maintain DAO Reserveundefined"
-    },
-    "4b9056d44d7b4a1080ca2682d72ffb56": {
-        "title": "Reallocate ETH From v1 → v3, Cover v2 Expenses",
-        "url": "/GC35/JBP-301.md",
-        "type": "Process Upgrades",
-        "status": "Approved",
-        "proposalId": "JBP-301",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1046845330240581684",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmPCgTi7cR8JmtRWVHhGRbU8jmfuA62WQFbYJNeq7BJ7ar",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xd54e8d985a879c9e04cba2f431d0a80256e6afdf3eef46de62b77369c7266328",
-        "date": "2022-11-28",
-        "governanceCycle": 35,
-        "version": "",
-        "voteSetup": {
-            "type": "basic"
-        },
-        "voteResults": {
-            "voteProposalId": "0xd54e8d985a879c9e04cba2f431d0a80256e6afdf3eef46de62b77369c7266328",
+            "voteProposalId": "0x04425a12b4f747cf87b79ee504ba07173d32cc139e0432aee08852161097938a",
             "totalVotes": 53,
             "scoresState": "final",
             "scores": {
-                "For": 107227451.1472178,
-                "Against": 528057.2985068476,
-                "Abstain": 10634133.022478664
+                "For": 75652442.7808361,
+                "Against": 30387248.530768037,
+                "Abstain": 34481016.497676775
             },
             "percentages": {
-                "For": 0.9950994867350765,
-                "Against": 0.004900513264923479
+                "For": 0.7134351472084802,
+                "Against": 0.2865648527915198
             },
-            "outcomePercentage": "99.51",
-            "outcomeEmoji": "✅"
+            "outcomePercentage": "28.66",
+            "outcomeEmoji": "❌"
         },
-        "body": "# JBP-301 - Reallocate ETH From v1 → v3, Cover v2 Expensesundefined"
+        "body": "# JBP-310 - Distribute 15M JBX to Reserved List addressesundefined"
     },
-    "fc223e974d7c425791e0cea613984b34": {
-        "title": "Unless the ETH is Allocated to v3, Leave ETH in Multisig. Cover v2 Expenses.",
-        "url": "/GC35/JBP-302.md",
-        "type": "",
+    "831b5cc1265f4fc298f3e0613e61c13a": {
+        "title": "Revoke JBP-308 - ConstitutionDAO2 Fundraiser and Move Allocated Funds to JBDAO v3 Treasury",
+        "url": "/GC35/JBP-312.md",
+        "type": "Internal Bookkeeping Transfer",
         "status": "Approved",
-        "proposalId": "JBP-302",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1046849860986474497",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmcZa9AnLAFHEg7KWg8U4cGmxCEb75B66PhZJ2xBitKnc8",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x15a0b6e1ffefb22f46e0b48a1e480b51349f9835ca5441e58b904623cda1653c",
-        "date": "2022-11-28",
+        "proposalId": "JBP-312",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1052324413556674590",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmNd8vEDeG2MXePi8smdVtcFENMgk5hjksmZmp8yvNGQxZ",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xd16c8a0266a18701ecf4f9ab50219ba028b1aabd8f92e38df246c2b840c8e75f",
+        "date": "2022-12-16",
         "governanceCycle": 35,
         "version": "",
         "voteSetup": {
             "type": "basic"
         },
         "voteResults": {
-            "voteProposalId": "0x15a0b6e1ffefb22f46e0b48a1e480b51349f9835ca5441e58b904623cda1653c",
-            "totalVotes": 57,
+            "voteProposalId": "0xd16c8a0266a18701ecf4f9ab50219ba028b1aabd8f92e38df246c2b840c8e75f",
+            "totalVotes": 54,
             "scoresState": "final",
             "scores": {
-                "For": 110033815.53162695,
-                "Against": 2110.4986359189343,
-                "Abstain": 34589615.31554231
+                "For": 138805431.50638914,
+                "Against": 624039.5877926362,
+                "Abstain": 4980000
             },
             "percentages": {
-                "For": 0.999980819912986,
-                "Against": 0.00001918008701393116
+                "For": 0.9955243351144099,
+                "Against": 0.0044756648855901505
             },
-            "outcomePercentage": "100.00",
+            "outcomePercentage": "99.55",
             "outcomeEmoji": "✅"
         },
-        "body": "# JBP-302 - Unless the ETH is Allocated to v3, Leave ETH in Multisig. Cover v2 Expenses.undefined"
+        "body": "# JBP-312 - Revoke JBP-308 - ConstitutionDAO2 Fundraiser and Move Allocated Funds to JBDAO v3 Treasuryundefined"
     },
-    "e0aede5a8db14eceb9810b2269dd0a9f": {
-        "title": "Renew Gulan Recurring Payout Through CogniDAO",
-        "url": "/GC35/JBP-305.md",
+    "cbdbc1e13a4343d4b4287e8ab4ee2950": {
+        "title": "Move a bunch of payouts to V3",
+        "url": "/GC35/JBP-313.md",
+        "type": "Funding Cycle Reconfiguration",
+        "status": "Approved",
+        "proposalId": "JBP-313",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1053092623583285288",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmVZjmon8XKtjfmnZSDyALgsRV5NXB7K29WD3zR78LBp2Q",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x7ea28480da66358c13acb1b5f54f143a9e20edc5bee0c03aa8e0cb3c8b08c56b",
+        "date": "2022-12-15",
+        "governanceCycle": 35,
+        "version": "",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0x7ea28480da66358c13acb1b5f54f143a9e20edc5bee0c03aa8e0cb3c8b08c56b",
+            "totalVotes": 63,
+            "scoresState": "final",
+            "scores": {
+                "For": 147050457.2823468,
+                "Against": 11606,
+                "Abstain": 2077.699987653161
+            },
+            "percentages": {
+                "For": 0.9999210809386122,
+                "Against": 0.00007891906138782681
+            },
+            "outcomePercentage": "99.99",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-313 - Move a bunch of payouts to V3undefined"
+    },
+    "a081243a72954b4d983242f86df03ee3": {
+        "title": "WAGMI Renew, Decrease, and Move Reoccurring pay out for 3 funding Cycles",
+        "url": "/GC35/JBP-314.md",
         "type": "Recurring Payment",
         "status": "Approved",
-        "proposalId": "JBP-305",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1048343856766259270",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmbHw8N4AkbHWhdaqUwj8HtSyqGHociBGGPWuDE84ijiwz",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x5afcba1928f4722eb4501392053316adfd9363106bd4064ea9d1f6db9cd61de3",
-        "date": "2022-12-02",
+        "proposalId": "JBP-314",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1053100841306964081",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmQisq2aDijJZbFA1KD9XYJUdhu5JAbQ1eQdw5Ut5m9vUt",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x933735148f39953691824c0d2a8c2c610794a21d8d6ec16429c11b202b1526db",
+        "date": "2022-12-15",
         "governanceCycle": 35,
-        "version": "V2",
-        "voteSetup": {
-            "type": "basic"
-        },
-        "voteResults": {
-            "voteProposalId": "0x5afcba1928f4722eb4501392053316adfd9363106bd4064ea9d1f6db9cd61de3",
-            "totalVotes": 57,
-            "scoresState": "final",
-            "scores": {
-                "For": 106459500.52716878,
-                "Against": 42460362.33953986,
-                "Abstain": 10989650.085441863
-            },
-            "percentages": {
-                "For": 0.7148777770662857,
-                "Against": 0.2851222229337143
-            },
-            "outcomePercentage": "71.49",
-            "outcomeEmoji": "✅"
-        },
-        "body": "# JBP-305 - Renew Gulan Recurring Payout Through CogniDAOundefined"
-    },
-    "4780b50ad85a4b0395931bfa58bb8c14": {
-        "title": "Reimburse Jango for payment to CogniDAO for Notion and Figma expenses",
-        "url": "/GC35/JBP-306.md",
-        "type": "Payout",
-        "status": "Approved",
-        "proposalId": "JBP-306",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1048331050662764604",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmbhnvKV1PNQZ6ej7ZPftWzMKTcSnKo45h78JLEaPrswSz",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x2de385d98e9519d7ce5c6337071d326e3390afc6c767df05153b5ab00a224f1f",
-        "date": "2022-12-02",
-        "governanceCycle": 35,
-        "version": "V2",
+        "version": "V1",
         "voteSetup": {},
         "voteResults": {
-            "voteProposalId": "0x2de385d98e9519d7ce5c6337071d326e3390afc6c767df05153b5ab00a224f1f",
-            "totalVotes": 64,
-            "scoresState": "final",
-            "scores": {
-                "For": 140979077.16827965,
-                "Against": 1199429.8034828997,
-                "Abstain": 0
-            },
-            "percentages": {
-                "For": 0.9915639161710912,
-                "Against": 0.008436083828908918
-            },
-            "outcomePercentage": "99.16",
-            "outcomeEmoji": "✅"
-        },
-        "body": "# JBP-306 - Reimburse Jango for payment to CogniDAO for Notion and Figma expensesundefined"
-    },
-    "605152af8aab4bea93f14838e7741828": {
-        "title": "Fund blunt finance experiment",
-        "url": "/GC35/JBP-307.md",
-        "type": "Payout",
-        "status": "Approved",
-        "proposalId": "JBP-307",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1048344022655189012",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmSuWEK165gmcrEzopFj1EEKk1j6upqtxBMZTZuAuUkKxG",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x3346171415210d0523079ccde7af7e4f417e45ec7daabb9f037bbaba0c69a550",
-        "date": "2022-12-02",
-        "governanceCycle": 35,
-        "version": "V2",
-        "voteSetup": {
-            "type": "basic"
-        },
-        "voteResults": {
-            "voteProposalId": "0x3346171415210d0523079ccde7af7e4f417e45ec7daabb9f037bbaba0c69a550",
+            "voteProposalId": "0x933735148f39953691824c0d2a8c2c610794a21d8d6ec16429c11b202b1526db",
             "totalVotes": 58,
             "scoresState": "final",
             "scores": {
-                "For": 125424972.74441132,
-                "Against": 1338381.203080297,
+                "For": 124196040.73500738,
+                "Against": 159654.74304000003,
+                "Abstain": 20125605.709071863
+            },
+            "percentages": {
+                "For": 0.9987161445044695,
+                "Against": 0.0012838554955304322
+            },
+            "outcomePercentage": "99.87",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-314 - WAGMI Renew, Decrease, and Move Reoccurring pay out for 3 funding Cyclesundefined"
+    },
+    "38103f220b324035ac5bd912590356c2": {
+        "title": "Install V3 Split allocator in JB DAO v2 treasury, set allocator as feeless",
+        "url": "/GC35/JBP-315.md",
+        "type": "Protocol Upgrades",
+        "status": "Approved",
+        "proposalId": "JBP-315",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1053373366775599156",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmShBD3LvKkDGkaaw94tWXntpM9E2hpfMjqmtZ6wksit7X",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xd7422c2d580c631e0f6f3b7e8e8bf2433a0bf2a2583850d5bc4852edc353d1f3",
+        "date": "2022-12-16",
+        "governanceCycle": 35,
+        "version": "",
+        "voteSetup": {},
+        "voteResults": {
+            "voteProposalId": "0xd7422c2d580c631e0f6f3b7e8e8bf2433a0bf2a2583850d5bc4852edc353d1f3",
+            "totalVotes": 60,
+            "scoresState": "final",
+            "scores": {
+                "For": 142202476.99570933,
+                "Against": 1029185.9690413092,
                 "Abstain": 0
             },
             "percentages": {
-                "For": 0.9894418918291269,
-                "Against": 0.010558108170873154
+                "For": 0.9928145359221683,
+                "Against": 0.007185464077831674
             },
-            "outcomePercentage": "98.94",
+            "outcomePercentage": "99.28",
             "outcomeEmoji": "✅"
         },
-        "body": "# JBP-307 - Fund blunt finance experimentundefined"
+        "body": "# JBP-315 - Install V3 Split allocator in JB DAO v2 treasury, set allocator as feelessundefined"
     },
-    "cbd263a55b0d48b283f65082e333d3fd": {
-        "title": "ConstitutionDAO2 Fundraiser",
-        "url": "/GC35/JBP-308.md",
-        "type": "Payout",
+    "5257c0bcb194456a8707efae763495a4": {
+        "title": "Install V3 Split allocator in JB DAO v1 treasury.",
+        "url": "/GC35/JBP-316.md",
+        "type": "Protocol Upgrades",
         "status": "Approved",
-        "proposalId": "JBP-308",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1048378419404083260",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmS4TixbgeixaVxu3RJ2FnJ9Qgw65gDxMv1czCX8mt2SQc",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xc17147882387bb66baa7642b1dde58f15bda1d79a52f176edc6aeba29cac66de",
-        "date": "2022-12-02",
+        "proposalId": "JBP-316",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1053373367740272671",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmURud7721k2uWtYLwiyLW48P14aSypzvefCreC2kZZz38",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x6c0032fa09bfc3baf570de0d71beb125de336905af96c232d3b25c81de5f3058",
+        "date": "2022-12-16",
         "governanceCycle": 35,
-        "version": "V2",
-        "voteSetup": {
-            "type": "basic"
-        },
+        "version": "",
+        "voteSetup": {},
         "voteResults": {
-            "voteProposalId": "0xc17147882387bb66baa7642b1dde58f15bda1d79a52f176edc6aeba29cac66de",
-            "totalVotes": 55,
+            "voteProposalId": "0x6c0032fa09bfc3baf570de0d71beb125de336905af96c232d3b25c81de5f3058",
+            "totalVotes": 53,
             "scoresState": "final",
             "scores": {
-                "For": 179481926.67586672,
-                "Against": 1281323.517320297,
-                "Abstain": 13844.34288
+                "For": 139036061.3997418,
+                "Against": 13683.69998765316,
+                "Abstain": 0
             },
             "percentages": {
-                "For": 0.9929115928378643,
-                "Against": 0.007088407162135603
+                "For": 0.9999015913335344,
+                "Against": 0.00009840866646565169
             },
-            "outcomePercentage": "99.29",
+            "outcomePercentage": "99.99",
             "outcomeEmoji": "✅"
         },
-        "body": "# JBP-308 - ConstitutionDAO2 Fundraiserundefined"
+        "body": "# JBP-316 - Install V3 Split allocator in JB DAO v1 treasury.undefined"
     },
-    "e5e6167051fb44f79191be7125fd799a": {
-        "title": "Renew and reduce jigglyjams recurring payout",
-        "url": "/GC35/JBP-309.md",
-        "type": "Payout",
+    "5d49f775a5b347a9ba6ff46b988ac696": {
+        "title": "Deploy V3 JBX",
+        "url": "/GC35/JBP-317.md",
+        "type": "Protocol Upgrades",
         "status": "Approved",
-        "proposalId": "JBP-309",
-        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1048386133458956288",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmPb1LZzvGtPZtxAQgWu2iUGb6q9Xo4UYNN21y44nzvDgv",
-        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x4fdcd9b2efb5f95c977e3fc098426268722a70972bc6e3daa1f6e32642fbb21e",
-        "date": "2022-12-02",
+        "proposalId": "JBP-317",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1053373368692383764",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/Qmd692dgpGMtnoL9YiufqMMLZveLmtDhLaeDd1z7FG615k",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xccabcb49e7b72ccc58aa378971381d03b04d5c95f3e36e1e82f36c3a0dbec9ec",
+        "date": "2022-12-16",
         "governanceCycle": 35,
-        "version": "V2",
+        "version": "",
+        "voteSetup": {},
+        "voteResults": {
+            "voteProposalId": "0xccabcb49e7b72ccc58aa378971381d03b04d5c95f3e36e1e82f36c3a0dbec9ec",
+            "totalVotes": 54,
+            "scoresState": "final",
+            "scores": {
+                "For": 118845455.34356156,
+                "Against": 25133433.746148545,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0.8254366740495653,
+                "Against": 0.17456332595043464
+            },
+            "outcomePercentage": "82.54",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-317 - Deploy V3 JBXundefined"
+    },
+    "b83b36f2c9ed4397846a74b5acb0adbd": {
+        "title": "Governance Process Amendment 8: Earlier Temp Checks, Clarify Execution",
+        "url": "/GC35/JBP-318.md",
+        "type": "Process Upgrades",
+        "status": "Approved",
+        "proposalId": "JBP-318",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1053435924987523103",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmefSR8voYzedCsuouDVVbG1na6SafVXGYNtC6gTBk8mkJ",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xfca88c831fa78e857e40726cfdd9dcc135076463d85b71fafb9f38e31aebfb25",
+        "date": "2022-12-16",
+        "governanceCycle": 35,
+        "version": "",
         "voteSetup": {
             "type": "basic"
         },
         "voteResults": {
-            "voteProposalId": "0x4fdcd9b2efb5f95c977e3fc098426268722a70972bc6e3daa1f6e32642fbb21e",
+            "voteProposalId": "0xfca88c831fa78e857e40726cfdd9dcc135076463d85b71fafb9f38e31aebfb25",
             "totalVotes": 57,
             "scoresState": "final",
             "scores": {
-                "For": 146528320.7157541,
-                "Against": 0,
-                "Abstain": 151785.89131941722
+                "For": 122665941.51449148,
+                "Against": 418729.0812363262,
+                "Abstain": 15644193.84168848
             },
             "percentages": {
-                "For": 1,
-                "Against": 0
+                "For": 0.9965980403635182,
+                "Against": 0.0034019596364818156
             },
-            "outcomePercentage": "100.00",
+            "outcomePercentage": "99.66",
             "outcomeEmoji": "✅"
         },
-        "body": "# JBP-309 - Renew and reduce jigglyjams recurring payoutundefined"
+        "body": "# JBP-318 - Governance Process Amendment 8: Earlier Temp Checks, Clarify Executionundefined"
+    },
+    "b69864ddf9b5410fb7a0d9663571fd7c": {
+        "title": "Distribution of the Thirsty Thirsty Memberships received from JBP-261",
+        "url": "/GC35/JBP-319.md",
+        "type": "",
+        "status": "Cancelled",
+        "proposalId": "JBP-319",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1053415523184025630",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmSGK2v74phWs2UPz92mbFCeYhz8pcNp963CneQstbXUkr",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0xc589d9d53baecd5b4fed21d5b406f6ff38d58342733588b419b1b2716b2faadb",
+        "date": "2022-12-16",
+        "governanceCycle": 35,
+        "version": "",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0xc589d9d53baecd5b4fed21d5b406f6ff38d58342733588b419b1b2716b2faadb",
+            "totalVotes": 62,
+            "scoresState": "final",
+            "scores": {
+                "For": 72021741.72760503,
+                "Against": 645844.5592449831,
+                "Abstain": 75206042.22667429
+            },
+            "percentages": {
+                "For": 0.9911123433122497,
+                "Against": 0.008887656687750142
+            },
+            "outcomePercentage": "0.89",
+            "outcomeEmoji": "❌"
+        },
+        "body": "# JBP-319 - Distribution of the Thirsty Thirsty Memberships received from JBP-261undefined"
+    },
+    "380114a35d584f74b8e83d1583d6ab14": {
+        "title": "Recurring Multisig Payout for Figma and Notion",
+        "url": "/GC35/JBP-320.md",
+        "type": "Process Upgrades",
+        "status": "Approved",
+        "proposalId": "JBP-320",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1053435925847355392",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmUnao5jVNuieb2XUfjNz8xxD9qCHHtzRXGnhTZtPUW7zy",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x89f94788e9c1591db9387cb92828cd7de65a77d7383a42875c6915d54bfefdd8",
+        "date": "2022-12-16",
+        "governanceCycle": 35,
+        "version": "",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0x89f94788e9c1591db9387cb92828cd7de65a77d7383a42875c6915d54bfefdd8",
+            "totalVotes": 65,
+            "scoresState": "final",
+            "scores": {
+                "For": 86780013.77651924,
+                "Against": 26784043.628746703,
+                "Abstain": 26098671.368252277
+            },
+            "percentages": {
+                "For": 0.7641503461507643,
+                "Against": 0.23584965384923567
+            },
+            "outcomePercentage": "76.42",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-320 - Recurring Multisig Payout for Figma and Notionundefined"
     }
 }
