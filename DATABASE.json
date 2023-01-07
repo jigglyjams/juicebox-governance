@@ -2480,5 +2480,38 @@
             "outcomeEmoji": "✅"
         },
         "body": "# JBP-320 - Recurring Multisig Payout for Figma and Notionundefined"
+    },
+    "512dbba0778b417b935932dd6b1e3cf8": {
+        "title": "Extend Multisig’s permission to set TokenUriResolver for 2 months",
+        "url": "/GC35/JBP-321.md",
+        "type": "",
+        "status": "Approved",
+        "proposalId": "JBP-321",
+        "discussionThreadURL": "https://discord.com/channels/775859454780244028/873248745771372584/1058518047897419777",
+        "ipfsURL": "https://bafkreigyenj2xxx5coubrtcgwldw7sgqyo5hgnllinidmh34d6hyic4d3e.ipfs.nftstorage.link",
+        "voteURL": "https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x4d1f6e8576fbdd5c61f1b3bebd775e153fa49ee70e0cbee53561ba75bb4ac381",
+        "date": "2022-12-30",
+        "governanceCycle": 35,
+        "version": "",
+        "voteSetup": {
+            "type": "basic"
+        },
+        "voteResults": {
+            "voteProposalId": "0x4d1f6e8576fbdd5c61f1b3bebd775e153fa49ee70e0cbee53561ba75bb4ac381",
+            "totalVotes": 69,
+            "scoresState": "final",
+            "scores": {
+                "For": 88569115.02394067,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 1,
+                "Against": 0
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
+        "body": "# JBP-321 - Extend Multisig’s permission to set TokenUriResolver for 2 monthsundefined"
     }
 }
